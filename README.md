@@ -20,7 +20,7 @@ This project employs a mixed-methods approach, integrating quantitative data ana
 
 ## Data Overview
 
-Refer to the Python Code: [Here](https://github.com/makumif/MIS581-Portfolio-Project-Inventory-Management-Optimization/tree/main/SupplyChainAnalysis.ipynb) and Portfolio Project document (page 9-11): [Here](https://github.com/makumif/MIS581-Portfolio-Project-Inventory-Management-Optimization/tree/main/Module8-PortfolioProject.docx)
+Refer to the Python Code: [Here](https://github.com/makumif/CT8-Capstone/tree/main/SupplyChainAnalysis.ipynb) and Portfolio Project document (page 9-11): [Here](https://github.com/makumif/CT8-Capstone/tree/main/Module8-PortfolioProject.docx)
 
 ## Key Findings
 
