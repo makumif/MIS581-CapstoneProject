@@ -20,7 +20,7 @@ This project employs a mixed-methods approach, integrating quantitative data ana
 
 ## Data Overview
 
-Refer to the Portfolio Project document, page 9-11: [Here]()
+Refer to the Portfolio Project document, page 9-11: [Here](https://github.com/makumif/MIS581-Portfolio-Project-Inventory-Management-Optimization/tree/main/Module8-Portfolio Project.docx)
 
 ## Key Findings
 
