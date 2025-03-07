@@ -20,7 +20,7 @@ This project employs a mixed-methods approach, integrating quantitative data ana
 
 ## Data Overview
 
-Refer to the Portfolio Project document, page 9-11: here
+Refer to the Portfolio Project document, page 9-11: [Here]()
 
 ## Key Findings
 
