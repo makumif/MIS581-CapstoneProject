@@ -32,21 +32,7 @@ Refer to the Python Code: [Here](https://github.com/makumif/CT8-Capstone/tree/ma
 
 ## Recommendations
 
-•	Integrate Predictive Models: Use decision tree models to predict overstock situations and adjust stock levels proactively.
-
-•	Preventive Actions: Take actions based on model predictions to maintain optimal inventory levels.
-
-•	Pricing Strategies: Reduce the frequency of discounts and shift towards an Everyday Low Pricing model.
-
-•	Invest in Differentiation: Focus on product development, customer experience, and brand storytelling to attract and retain loyal customers.
-
-•	Customer Research: Conduct research on customer preferences and behaviors to inform inventory management decisions.
-
-•	Manage Slow-Moving Products: Regularly review inventory and clear slow-moving or obsolete products.
-
-•	Promote Data Quality: Ensure data quality and integrity through robust validation processes and staff training.
-
-•	Incorporate External Factors: Consider external factors such as customer behavior, competitor activities, and economic indicators in inventory management models.
+Refer Portfolio Project document: [Here](https://github.com/makumif/CT8-Capstone/tree/main/Module8-PortfolioProject.docx)
 
 
 
